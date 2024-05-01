@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Previously, Data Science @ Fidelity, ZoomRx 
   <br><br>
-  <a href="https://www.linkedin.com/in/siddharthans/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/siddharthans/">LinkedIn</a> <a href="https://www.linkedin.com/in/siddharthans/">LinkedIn</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
