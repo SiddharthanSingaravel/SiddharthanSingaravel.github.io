@@ -2,10 +2,11 @@
 
 ---
 
-### Detecting Personally Identifiable Information (PII) in Student Writing
-End-to-end Machine Learning (MLOps) pipeline to 
+###Detecting Personally Identifiable Information (PII) in Student Writing
+####End-to-end Machine Learning (MLOps) pipeline to detect compromising student information in their academic writings. Cron-scheduled CI/CD pipelines incorporated to auto evaluate and finetune for the incoming feature vectors. <br>
+Tools: DVC, Airflow, MLFlow, HuggingFace (Pretrained Models), Torch, Python
 [[code]](https://github.com/rayapudisaiakhil/PII-Data)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ML Model Pipeline.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
