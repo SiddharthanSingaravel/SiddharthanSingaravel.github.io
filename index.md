@@ -1,10 +1,10 @@
-## Portfolio
+## Select Projects
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Detecting Personally Identifiable Information (PII) in Student Writing
+End-to-end Machine Learning (MLOps) pipeline to 
+[[code]](https://github.com/rayapudisaiakhil/PII-Data)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
