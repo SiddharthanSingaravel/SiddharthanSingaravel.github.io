@@ -17,5 +17,11 @@ between art and artificial intelligence. <br>
 
 ---
 
+### Estimating the value of Pi through Monte-Carlo Methods
+- Simulating random sampling of values from a unit area and estimating the proportion of points that fall inside the circle circumscribed by the unit square. <br>
+- Accurate with a 3 digit precision.
+[[Blog]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+<img src="images/simulation" alt="Simulations" width="600" height="600">
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
