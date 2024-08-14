@@ -12,7 +12,14 @@
 between art and artificial intelligence. <br>
 - The efficacy of diffusion models, particularly under the influence of different noise schedules and iteration counts, highlights their robustness and versatility in generating complex image distributions. <br>
 [[code]](https://github.com/rayapudisaiakhil/PII-Data) <br>
-<img src="images/download3.png?raw=true" style="width: 50%; height: auto;"/>>
+<img src="images/download3.png?raw=true" style="width: 50%; height: auto;"/>
+
+---
+
+### A Statistical Approach to FiveThirtyEight's Riddler Nation
+- Approximating a solution for 538's Riddler Classic sampled from a uniform distribution based on assumptions involving law of large numbers. <br>
+[[Blog]](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
+<img src="images/Collage.png?raw=True" alt="Simulations" width="600" height=auto;>
 
 ---
 
