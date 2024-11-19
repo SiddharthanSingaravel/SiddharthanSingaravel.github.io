@@ -32,8 +32,8 @@ Played around with some quirky datasets in Tableau, including:
 ---
 
 ### Estimating Pi through Monte-Carlo Methods
-- Simulating random sampling of values from a unit area and estimating the proportion of points that fall inside the circle circumscribed by the unit square. <br>
-- Accurate with a 3 digit precision.
+Developed a Monte Carlo simulation using random point sampling in a unit square to estimate π. Generated 1M+ random (x,y) coordinates and calculated the ratio of points falling inside a quarter circle to total points, achieving a 3-digit precision estimate of π ≈ 3.141.
+Implemented statistical convergence analysis using the Law of Large Numbers, demonstrating how increasing sample size improves estimation accuracy. Visualized convergence patterns through matplotlib animations, showing error reduction from 10% to <0.1% with increased iterations.
 [[substack blog]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
 <img src="images/simulation.png" alt="Pi Simulations" width="50%" height=auto>
 
@@ -42,7 +42,7 @@ Played around with some quirky datasets in Tableau, including:
 ### Banking Behavior Analytics: Predicting Term Deposit Subscriptions
 - ML Pipeline Development: Built predictive models analyzing 41,188 marketing campaign records to forecast term deposit subscriptions. Implemented SMOTE and ADASYN for handling class imbalance, achieving 97% accuracy with k-NN (k=2). Used Logistic Regression, k-NN, and SVM classifiers with cross-validation for model evaluation.
 - Feature Engineering & Analysis: Engineered 20 features including client demographics, macroeconomic indicators, and campaign metrics. Revealed key demographic insights through exploratory analysis: young professionals showed highest subscription rates, and cellular contact campaigns demonstrated 10x better conversion rates. Utilized correlation analysis and dimensionality reduction techniques (PCA) for feature selection.
-[[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+[[report]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/IE7300~1.PDF) <br>
 <img src="images/portugese_banking_collage.png" alt="Portugese banking behavior analytics" width="50%" height=auto>
 
 ---
@@ -59,13 +59,14 @@ Played around with some quirky datasets in Tableau, including:
 ### Obfuscated MalMem: Sophisticated Malware Detection through Supervised Learning Strategies
 - Built an array of classification models analyzing 59,000 memory dump records to detect sophisticated malware. Implemented feature engineering and dimensionality reduction (PCA) on 55 features, reducing to 15 components while retaining 97% variance. Achieved 99.98% accuracy using SVM and k-NN classifiers, with near-perfect precision scores.
 - Developed correlation analysis to reduce feature dimensionality, implementing high covariance filters (threshold 0.90) to eliminate 29 redundant features. Evaluated six ML models including Logistic Regression, k-NN, Decision Trees, Random Forest, SVM, and Neural Networks, optimizing for both accuracy and computational efficiency.
-[[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+[[report]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/_GROUP~1.PDF) <br>
 <img src="images/malmem_detection_collage.png" alt="Malware detection" width="50%" height=auto>
 
 ---
 
 ### Market Analysis: Strategic Insights for a Type-2 Diabetes Drug Launch
-- Performed market analysis for a hypothetical Type-2 Diabetes drug launch, assessing branded vs. generic dynamics, sales trends, and competitor pricing strategies
+- Performed market analysis for a hypothetical Type-2 Diabetes drug launch, assessing branded vs. generic dynamics, sales trends, and competitor pricing strategies <br>
+[[slide deck]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/_GROUP~1.PDF) <br>
 <img src="images/malmem_detection_collage.png" alt="Type-2 Market Analysis" width="50%" height=auto>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
