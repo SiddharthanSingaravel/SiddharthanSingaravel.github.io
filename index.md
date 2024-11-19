@@ -62,5 +62,11 @@ Played around with some quirky datasets in Tableau, including:
 [[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
 <img src="images/malmem_detection_collage.png" alt="Malware detection" width="50%" height=auto>
 
+---
+
+### Market Analysis: Strategic Insights for a Type-2 Diabetes Drug Launch
+- Performed market analysis for a hypothetical Type-2 Diabetes drug launch, assessing branded vs. generic dynamics, sales trends, and competitor pricing strategies
+<img src="images/malmem_detection_collage.png" alt="Type-2 Market Analysis" width="50%" height=auto>
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
