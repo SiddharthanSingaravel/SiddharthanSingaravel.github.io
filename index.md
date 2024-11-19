@@ -66,7 +66,7 @@ Implemented statistical convergence analysis using the Law of Large Numbers, dem
 
 ### Market Analysis: Strategic Insights for a Type-2 Diabetes Drug Launch
 - Performed market analysis for a hypothetical Type-2 Diabetes drug launch, assessing branded vs. generic dynamics, sales trends, and competitor pricing strategies <br>
-[[slide deck]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/_GROUP~1.PDF) <br>
+[[slide deck]](https://siddharthansingaravel.github.io/MarketResearch) <br>
 <img src="images/marketResearch.png" alt="Type-2 Market Analysis" width="50%" height=auto> <br>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
