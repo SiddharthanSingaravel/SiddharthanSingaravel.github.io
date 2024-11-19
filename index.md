@@ -3,29 +3,37 @@
 ### Detecting Personally Identifiable Information (PII) in Student Writing
 - End-to-end Machine Learning (MLOps) pipeline to detect compromising student information in their academic writings. Cron-scheduled CI/CD pipelines incorporated to auto evaluate and finetune for the incoming feature vectors. <br>
 - Tools: DVC, Elasticsearch, Logstash, Kibana, Tensorboard, Tensorflow, Airflow, MLFlow, HuggingFace (fetching pretrained models), Python <br>
-[**code**](https://github.com/rayapudisaiakhil/PII-Data) <br>
+[[code]](https://github.com/rayapudisaiakhil/PII-Data) <br>
 <img src="images/ML Model Pipeline.jpeg?raw=true" style="width: 50%; height: auto;"/> <br>
 
 ---
 ### MetFaces: Latent Diffusion Image Synthesis
 - Implemented and optimized a diffusion-based generative model using a modified U-Net architecture for art-styled facial image synthesis, leveraging the MetFaces dataset (1,336 images). Conducted comparative analysis of linear and cosine noise schedules, achieving a 15% improvement in Fréchet Inception Distance (FID) scores with the cosine schedule <br>
 - Optimized diffusion-based generative model training for art-styled facial image synthesis using NVIDIA RTX 3060 GPU with CUDA acceleration, achieving FID scores under 30. Implemented hyperparameter tuning with Hyperopt and experiment tracking via MLflow <br>
-[**report**](https://siddharthansingaravel.github.io/diffusion)<br>
+[[report]](https://siddharthansingaravel.github.io/diffusion)<br>
 <img src="images/download3.png?raw=true" style="width: 50%; height: auto;"/>
 
 ---
 
 ### Monte Carlo Strategy for FiveThirtyEight's Riddler Nation
 - Developed a Monte Carlo-based simulation strategy to optimize soldier deployment in FiveThirtyEight’s Riddler Nation, refining approaches through randomized trials and pairwise evaluations <br>
-[**substack**](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
+[[substack blog]](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
 <img src="images/Collage.png" alt="FiveThirtyEight Simulations" width="50%" height=auto>
 
 ---
 
-### Estimating the value of Pi through Monte-Carlo Methods
+### Project Visualization: Tableau
+Played around with some quirky datasets in Tableau, including:
+- A move-by-move visualization of the epic 1996 chess showdown between Deep Blue and Kasparov (yeah, when AI first beat a human chess champion!)
+- Tracked how the name "Emma" became a total hit for baby girls in the US over the years (spoiler: it really took off!) <br>
+Check out these visualizations on my [[Tableau Public Profile]](https://public.tableau.com/app/profile/siddharthan.s/vizzes)
+
+---
+
+### Estimating Pi through Monte-Carlo Methods
 - Simulating random sampling of values from a unit area and estimating the proportion of points that fall inside the circle circumscribed by the unit square. <br>
 - Accurate with a 3 digit precision.
-[[Blog]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+[[substack blog]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
 <img src="images/simulation.png" alt="Simulations" width="50%" height=auto>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
