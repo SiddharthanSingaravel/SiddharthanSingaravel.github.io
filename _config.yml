@@ -1,13 +1,15 @@
-title: Sid Singaravel # your name (or website title) here
-logo: "/images/Linked In Photo-modified.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Graduate Analytics @ Northeastern U
-  <br>
-  Previously, Data Science @ Fidelity, ZoomRx 
+title: Sid Singaravel # Your name or website title
+logo: "/images/Linked In Photo-modified.png?raw=true" # Your photo or logo
+description: > # Your bio section
+  Graduate Analytics @ Northeastern University <br>
+  Previously, Data Science @ Fidelity, ZoomRx <br><br>
+  📧 singaravel dot s at northeastern dot edu  
+  <a href="https://www.linkedin.com/in/siddharthans/">LinkedIn</a> | 
+  <a href="https://github.com/SiddharthanSingaravel/">GitHub</a>  
   <br><br>
-  <a href="https://www.linkedin.com/in/siddharthans/">LinkedIn</a> | <a href="https://github.com/SiddharthanSingaravel/">GitHub</a>
+  📄 View my <a href="pdf/Siddharthan_Resume_Data_Scientist.pdf" target="_blank">résumé</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+google_analytics: G-6TJW42B94P
