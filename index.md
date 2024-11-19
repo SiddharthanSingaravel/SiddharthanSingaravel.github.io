@@ -3,22 +3,21 @@
 ### Detecting Personally Identifiable Information (PII) in Student Writing
 - End-to-end Machine Learning (MLOps) pipeline to detect compromising student information in their academic writings. Cron-scheduled CI/CD pipelines incorporated to auto evaluate and finetune for the incoming feature vectors. <br>
 - Tools: DVC, Elasticsearch, Logstash, Kibana, Tensorboard, Tensorflow, Airflow, MLFlow, HuggingFace (fetching pretrained models), Python <br>
-[[code]](https://github.com/rayapudisaiakhil/PII-Data) <br>
+[**code**](https://github.com/rayapudisaiakhil/PII-Data) <br>
 <img src="images/ML Model Pipeline.jpeg?raw=true" style="width: 50%; height: auto;"/> <br>
 
 ---
-### MetMuseum-based Artwork Synthesis using Latent Diffusion Models
-- By synthesizing images that mimic the styles curated at the Metropolitan Museum of Art, this study demonstrates the potential of deep learning technologies in bridging the gap
-between art and artificial intelligence. <br>
-- The efficacy of diffusion models, particularly under the influence of different noise schedules and iteration counts, highlights their robustness and versatility in generating complex image distributions. <br>
-[[code]](https://github.com/rayapudisaiakhil/PII-Data) <br>
+### MetFaces: Latent Diffusion Image Synthesis
+- Implemented and optimized a diffusion-based generative model using a modified U-Net architecture for art-styled facial image synthesis, leveraging the MetFaces dataset (1,336 images). Conducted comparative analysis of linear and cosine noise schedules, achieving a 15% improvement in Fréchet Inception Distance (FID) scores with the cosine schedule <br>
+- Optimized diffusion-based generative model training for art-styled facial image synthesis using NVIDIA RTX 3060 GPU with CUDA acceleration, achieving FID scores under 30. Implemented hyperparameter tuning with Hyperopt and experiment tracking via MLflow <br>
+[**report**](https://siddharthansingaravel.github.io/diffusion)<br>
 <img src="images/download3.png?raw=true" style="width: 50%; height: auto;"/>
 
 ---
 
 ### A Statistical Approach to FiveThirtyEight's Riddler Nation
-- Approximating a solution for 538's Riddler Classic sampled from a uniform distribution based on assumptions involving law of large numbers. <br>
-[[Blog]](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
+- Approximating a solution for FiveThirtyEights's Riddler Nation sampled from a uniform distribution based on assumptions of law of large numbers. <br>
+[**substack**](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
 <img src="images/Collage.png?raw=True" alt="Simulations" width="600" height=auto;>
 
 ---
