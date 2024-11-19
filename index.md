@@ -15,10 +15,10 @@
 
 ---
 
-### A Statistical Approach to FiveThirtyEight's Riddler Nation
-- Approximating a solution for FiveThirtyEights's Riddler Nation sampled from a uniform distribution based on assumptions of law of large numbers. <br>
+### Monte Carlo Strategy for FiveThirtyEight's Riddler Nation
+- Developed a Monte Carlo-based simulation strategy to optimize soldier deployment in FiveThirtyEight’s Riddler Nation, refining approaches through randomized trials and pairwise evaluations <br>
 [**substack**](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
-<img src="images/Collage.png?raw=True" alt="Simulations" width="600" height=auto;>
+<img src="images/Collage.png" alt="FiveThirtyEight Simulations" width="50%" height=auto>
 
 ---
 
@@ -26,7 +26,7 @@
 - Simulating random sampling of values from a unit area and estimating the proportion of points that fall inside the circle circumscribed by the unit square. <br>
 - Accurate with a 3 digit precision.
 [[Blog]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
-<img src="images/simulation" alt="Simulations" width="600" height=auto;>
+<img src="images/simulation.png" alt="Simulations" width="50%" height=auto>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
