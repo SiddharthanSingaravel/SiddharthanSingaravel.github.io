@@ -26,7 +26,8 @@
 Played around with some quirky datasets in Tableau, including:
 - A move-by-move visualization of the epic 1996 chess showdown between Deep Blue and Kasparov (yeah, when AI first beat a human chess champion!)
 - Tracked how the name "Emma" became a total hit for baby girls in the US over the years (spoiler: it really took off!) <br>
-Check out these visualizations on my [[Tableau Public Profile]](https://public.tableau.com/app/profile/siddharthan.s/vizzes)
+[[Tableau Public Profile]](https://public.tableau.com/app/profile/siddharthan.s/vizzes) <br>
+<img src="images/tableau_collage.png" alt="Tableau Visualizations" width="50%" height=auto>
 
 ---
 
@@ -34,7 +35,32 @@ Check out these visualizations on my [[Tableau Public Profile]](https://public.t
 - Simulating random sampling of values from a unit area and estimating the proportion of points that fall inside the circle circumscribed by the unit square. <br>
 - Accurate with a 3 digit precision.
 [[substack blog]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
-<img src="images/simulation.png" alt="Simulations" width="50%" height=auto>
+<img src="images/simulation.png" alt="Pi Simulations" width="50%" height=auto>
+
+---
+
+### Banking Behavior Analytics: Predicting Term Deposit Subscriptions
+- ML Pipeline Development: Built predictive models analyzing 41,188 marketing campaign records to forecast term deposit subscriptions. Implemented SMOTE and ADASYN for handling class imbalance, achieving 97% accuracy with k-NN (k=2). Used Logistic Regression, k-NN, and SVM classifiers with cross-validation for model evaluation.
+- Feature Engineering & Analysis: Engineered 20 features including client demographics, macroeconomic indicators, and campaign metrics. Revealed key demographic insights through exploratory analysis: young professionals showed highest subscription rates, and cellular contact campaigns demonstrated 10x better conversion rates. Utilized correlation analysis and dimensionality reduction techniques (PCA) for feature selection.
+[[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+<img src="images/portugese_banking_collage.png" alt="Portugese banking behavior analytics" width="50%" height=auto>
+
+---
+
+### Database Design for Clean Energy Market Operation
+- Built a centralized database system for tracking residential solar grid metrics and user behavior
+- Used MySQL and Neo4j (graph) for data modeling, with Python-based visualization through Streamlit. The system calculates producer incentives based on energy contributions to utility grids
+- Architected UX interface for real-time analytics using Python-SQL driver (PyMySQL) and Streamlit API <br>
+[[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+<img src="images/Solar_UML.jpg" alt="Database design for clean energy market operations" width="50%" height=auto>
+
+---
+
+### Obfuscated MalMem: Sophisticated Malware Detection through Supervised Learning Strategies
+- Built an array of classification models analyzing 59,000 memory dump records to detect sophisticated malware. Implemented feature engineering and dimensionality reduction (PCA) on 55 features, reducing to 15 components while retaining 97% variance. Achieved 99.98% accuracy using SVM and k-NN classifiers, with near-perfect precision scores.
+- Developed correlation analysis to reduce feature dimensionality, implementing high covariance filters (threshold 0.90) to eliminate 29 redundant features. Evaluated six ML models including Logistic Regression, k-NN, Decision Trees, Random Forest, SVM, and Neural Networks, optimizing for both accuracy and computational efficiency.
+[[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+<img src="images/malmem_detection_collage.png" alt="Malware detection" width="50%" height=auto>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
