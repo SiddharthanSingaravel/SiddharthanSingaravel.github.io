@@ -42,7 +42,7 @@ Implemented statistical convergence analysis using the Law of Large Numbers, dem
 ### Banking Behavior Analytics: Predicting Term Deposit Subscriptions
 - ML Pipeline Development: Built predictive models analyzing 41,188 marketing campaign records to forecast term deposit subscriptions. Implemented SMOTE and ADASYN for handling class imbalance, achieving 97% accuracy with k-NN (k=2). Used Logistic Regression, k-NN, and SVM classifiers with cross-validation for model evaluation.
 - Feature Engineering & Analysis: Engineered 20 features including client demographics, macroeconomic indicators, and campaign metrics. Revealed key demographic insights through exploratory analysis: young professionals showed highest subscription rates, and cellular contact campaigns demonstrated 10x better conversion rates. Utilized correlation analysis and dimensionality reduction techniques (PCA) for feature selection.
-[[report]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/IE7300~1.PDF) <br>
+[[report]](https://siddharthansingaravel.github.io/bankingAnalytics) <br>
 <img src="images/portugese_banking_collage.png" alt="Portugese banking behavior analytics" width="50%" height=auto>
 
 ---
@@ -51,7 +51,7 @@ Implemented statistical convergence analysis using the Law of Large Numbers, dem
 - Built a centralized database system for tracking residential solar grid metrics and user behavior
 - Used MySQL and Neo4j (graph) for data modeling, with Python-based visualization through Streamlit. The system calculates producer incentives based on energy contributions to utility grids
 - Architected UX interface for real-time analytics using Python-SQL driver (PyMySQL) and Streamlit API <br>
-[[report]](https://sidsingaravel.substack.com/p/estimating-pi-through-monte-carlo) <br>
+[[report]](https://siddharthansingaravel.github.io/solarDatabase) <br>
 <img src="images/Solar_UML.jpg" alt="Database design for clean energy market operations" width="50%" height=auto>
 
 ---
@@ -59,7 +59,7 @@ Implemented statistical convergence analysis using the Law of Large Numbers, dem
 ### Obfuscated MalMem: Sophisticated Malware Detection through Supervised Learning Strategies
 - Built an array of classification models analyzing 59,000 memory dump records to detect sophisticated malware. Implemented feature engineering and dimensionality reduction (PCA) on 55 features, reducing to 15 components while retaining 97% variance. Achieved 99.98% accuracy using SVM and k-NN classifiers, with near-perfect precision scores.
 - Developed correlation analysis to reduce feature dimensionality, implementing high covariance filters (threshold 0.90) to eliminate 29 redundant features. Evaluated six ML models including Logistic Regression, k-NN, Decision Trees, Random Forest, SVM, and Neural Networks, optimizing for both accuracy and computational efficiency.
-[[report]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/_GROUP~1.PDF) <br>
+[[report]](https://siddharthansingaravel.github.io/malmem) <br>
 <img src="images/malmem_detection_collage.png" alt="Malware detection" width="50%" height=auto>
 
 ---
@@ -67,7 +67,7 @@ Implemented statistical convergence analysis using the Law of Large Numbers, dem
 ### Market Analysis: Strategic Insights for a Type-2 Diabetes Drug Launch
 - Performed market analysis for a hypothetical Type-2 Diabetes drug launch, assessing branded vs. generic dynamics, sales trends, and competitor pricing strategies <br>
 [[slide deck]](https://github.com/SiddharthanSingaravel/SiddharthanSingaravel.github.io/blob/master/pdf/_GROUP~1.PDF) <br>
-<img src="images/malmem_detection_collage.png" alt="Type-2 Market Analysis" width="50%" height=auto>
+<img src="images/marketResearch.png" alt="Type-2 Market Analysis" width="50%" height=auto> <br>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
