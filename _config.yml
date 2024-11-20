@@ -1,5 +1,6 @@
 title: Sid Singaravel # Your name or website title
 logo: "/images/Linked In Photo-modified.png?raw=true" # Your photo or logo
+favicon: sanfrancisco.jpeg
 github:
   is_user_page: false
   is_project_page: false
