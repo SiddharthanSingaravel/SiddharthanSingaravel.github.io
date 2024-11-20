@@ -22,6 +22,14 @@
 
 ---
 
+### BeeBot: NYT's Spelling Bee Solver
+- Engineered a high-performance solver for the NYT Spelling Bee puzzle, processing 170,000+ words in under 1 second <br>
+- Developed an intuitive Streamlit web interface, enabling users to input puzzle parameters and receive instant results, including valid words, pangrams, and  score distributions <br>
+[[beebotnyt.streamlit.app]](https://beebotnyt.streamlit.app/) <br>
+<img src="images/Collage.png" alt="Streamlit" width="50%" height=auto>
+
+---
+
 ### Project Visualization: Tableau
 Played around with some quirky datasets in Tableau, including:
 - A move-by-move visualization of the epic 1996 chess showdown between Deep Blue and Kasparov (yeah, when AI first beat a human chess champion!)
