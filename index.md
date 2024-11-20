@@ -26,7 +26,7 @@
 - Engineered a high-performance solver for the NYT Spelling Bee puzzle, processing 170,000+ words in under 1 second <br>
 - Developed an intuitive Streamlit web interface, enabling users to input puzzle parameters and receive instant results, including valid words, pangrams, and  score distributions <br>
 [[beebotnyt.streamlit.app]](https://beebotnyt.streamlit.app/) <br>
-<img src="images/Collage.png" alt="Streamlit" width="50%" height=auto>
+<img src="images/beebot_fig_gif.gif" alt="Beebot Streamlit" width="50%" height=auto>
 
 ---
 
