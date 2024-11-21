@@ -82,7 +82,7 @@ Played around with some quirky datasets in Tableau, including:
 ### Always Switch: Monty Hall Monte Carlo Simulations
 - Developed a Python simulation of the Monty Hall Problem, conducting 10,000 trials to demonstrate the counterintuitive probability concept, resulting in a 67.4% win rate when switching doors
 - Created data visualization using matplotlib to clearly illustrate simulation results, enhancing understanding of complex probability principles through visual representation <br>
-[[slide deck]](https://siddharthansingaravel.github.io/MarketResearch) <br>
+[[link]](https://siddharthansingaravel.github.io/montyHall) <br>
 <img src="images/montyHall.png" alt="Monty Hall" width="50%" height=auto> <br>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
