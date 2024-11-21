@@ -78,4 +78,4 @@ plt.xlabel('Did the participant switch?', weight = 'bold')
 plt.show()
 ```
 
-<img src="images/montyHall.png" alt="Monty Hall Monte Carlo" width="50%" height=auto>
+<img src="images/montyHall.png" alt="Monty Hall Monte Carlo" width=auto height=auto>
