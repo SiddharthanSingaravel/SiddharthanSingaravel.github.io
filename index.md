@@ -85,5 +85,12 @@ Played around with some quirky datasets in Tableau, including:
 [[link]](https://siddharthansingaravel.github.io/montyHall) <br>
 <img src="images/montyHall.png" alt="Monty Hall" width="50%" height=auto> <br>
 
+---
+
+### Two Chords Intersecting: What are the odds?
+- This Monte Carlo simulation explores the probability of two randomly drawn chords intersecting within a unit circle. The experiment generates random chords and determines whether they intersect, repeating this process 10,000 times to estimate the probability empirically.
+- As the trials accumulate, we converge on an empirical probability, offering insight into this geometric phenomenon. This experiment not only demonstrates the power of Monte Carlo methods in solving complex probabilistic problems but also reveals the hidden patterns within seemingly random geometric configurations.
+<img src="images/twoChordsIntersecting.png" alt="Monty Hall" width="50%" height=auto> <br>
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
