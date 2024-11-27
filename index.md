@@ -32,7 +32,8 @@
 
 ### ETL Pipeline for Tracking Boston Public Library Daily Activity: Cron-Scheduled Reporting
 - Automated Data Pipeline: Implemented a cron-scheduled pipeline to collect and process Boston Public Library user activity data daily, using Python, Pandas, and Plotly for real-time visualizations.
-- Data Aggregation & Visualization: Engineered data aggregation with Pandas and interactive visualizations with Plotly, automating daily updates via cron for consistent reporting.<br>
+- Data Aggregation & Visualization: Engineered data aggregation with Pandas and interactive visualizations with Plotly, automating daily updates via cron for consistent reporting.
+- **Data Source**: Analyze Boston, Boston Public Library [[link]](https://data.boston.gov/dataset/daily-active-user-counts/resource/c13199bf-49a1-488d-b8e9-55e49523ef81)<br>
 [[bostonpubliclibrary.streamlit.app]](https://bostonpubliclibrary.streamlit.app/) [[code]](https://siddharthansingaravel.github.io/bostonPublicLibrary)<br>
 <img src="images/CronScheduler-BPLTracker GIF.gif" alt="Beebot Streamlit" width="50%" height=auto>
 
