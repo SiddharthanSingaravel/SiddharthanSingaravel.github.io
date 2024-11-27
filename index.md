@@ -28,6 +28,22 @@
 [[beebotnyt.streamlit.app]](https://beebotnyt.streamlit.app/) <br>
 <img src="images/beebot_fig_gif.gif" alt="Beebot Streamlit" width="50%" height=auto>
 
+--- 
+
+### ETL Pipelines for Tracking Boston Public Library Daily Activity: Cron-Scheduled Reporting
+- Automated Data Pipeline: Implemented a cron-scheduled pipeline to collect and process Boston Public Library user activity data daily, using Python, Pandas, and Plotly for real-time visualizations.
+- Data Aggregation & Visualization: Engineered data aggregation with Pandas and interactive visualizations with Plotly, automating daily updates via cron for consistent reporting.<br>
+[[bostonpubliclibrary.streamlit.app]](https://bostonpubliclibrary.streamlit.app/)<br>
+<img src="images/beebot_fig_gif.gif" alt="Beebot Streamlit" width="50%" height=auto>
+
+---
+
+### BeeBot: NYT's Spelling Bee Solver
+- Engineered a high-performance solver for the NYT Spelling Bee puzzle, processing 170,000+ words in under 1 second <br>
+- Developed an intuitive Streamlit web interface, enabling users to input puzzle parameters and receive instant results, including valid words, pangrams, and  score distributions <br>
+[[beebotnyt.streamlit.app]](https://beebotnyt.streamlit.app/) <br>
+<img src="images/beebot_fig_gif.gif" alt="Beebot Streamlit" width="50%" height=auto>
+
 ---
 
 ### Project Visualization: Tableau
