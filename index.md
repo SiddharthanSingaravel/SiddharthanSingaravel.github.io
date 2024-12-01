@@ -16,9 +16,9 @@
 
 ---
 
-### Hotdog/Not Hotdog Classifier 🌭
+### 🌭 Hotdog/Not Hotdog ResNet18-powered Image Classifier
 - Inspired by Jian Yang's (Silicon Valley) stellar idea, built a ResNet18-powered image classification model in PyTorch, fine-tuned for binary (hotdog/not hotdog) classification. 
-- Deployed the model via Gradio on Hugging Face Spaces (stashed the model in LFS), allowing users to interact with the model directly by uploading <br>
+- Deployed the model via Gradio on Hugging Face Spaces (stashed the model in LFS), allowing users to interact with the model directly by uploading
 [[huggingfaces gradio app]](https://huggingface.co/spaces/asidfactory/hotdog) [[code]](https://huggingface.co/spaces/asidfactory/hotdog/tree/main)<br>
 <img src="images/hotdog.png?raw=true" style="width: 50%; height: auto;"/>
 
