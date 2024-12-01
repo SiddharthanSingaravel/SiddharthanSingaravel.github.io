@@ -7,11 +7,20 @@
 <img src="images/ML Model Pipeline.jpeg?raw=true" style="width: 50%; height: auto;"/> <br>
 
 ---
+
 ### MetFaces: Latent Diffusion Image Synthesis
-- Implemented and optimized a diffusion-based generative model using a modified U-Net architecture for art-styled facial image synthesis, leveraging the MetFaces dataset (1,336 images). Conducted comparative analysis of linear and cosine noise schedules, achieving a 15% improvement in Fréchet Inception Distance (FID) scores with the cosine schedule <br>
+- Developed and optimized a diffusion-based generative model using a modified U-Net architecture for art-styled facial image synthesis, leveraging the MetFaces dataset (1,336 images). Conducted comparative analysis of linear and cosine noise schedules, achieving a 15% improvement in Fréchet Inception Distance (FID) scores with the cosine schedule <br>
 - Optimized diffusion-based generative model training for art-styled facial image synthesis using NVIDIA RTX 3060 GPU with CUDA acceleration, achieving FID scores under 30. Implemented hyperparameter tuning with Hyperopt and experiment tracking via MLflow <br>
 [[report]](https://siddharthansingaravel.github.io/diffusion)<br>
 <img src="images/download3.png?raw=true" style="width: 50%; height: auto;"/>
+
+---
+
+### Hotdog/Not Hotdog Classifier 🌭
+- Inspired by Jian Yang's (Silicon Valley) stellar idea, built a ResNet18-powered image classification model in PyTorch, fine-tuned for binary (hotdog/not hotdog) classification. 
+- Deployed the model via Gradio on Hugging Face Spaces (stashed the model in LFS), allowing users to interact with the model directly by uploading <br>
+[[huggingfaces gradio app]](https://huggingface.co/spaces/asidfactory/hotdog) [[code]](https://huggingface.co/spaces/asidfactory/hotdog/tree/main)<br>
+<img src="images/hotdog.png?raw=true" style="width: 50%; height: auto;"/>
 
 ---
 
