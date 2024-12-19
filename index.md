@@ -24,6 +24,14 @@
 
 ---
 
+### Linear Discriminant Analysis - A Comprehensive Guide
+- A deep dive into the mathematical underpinnings and the statistical assumptions that make LDA a powerful dimensionality reduction and classification tool <br>
+- Reformulating LDA as a Neural Network: Discover how LDA can be reimagined as a Neural Network classifier, implemented as a simple Multilayer Perceptron (MLP) trained using backpropagation <br>
+[[substack blog]](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
+<img src="images/lda.png" alt="Linear Discriminant Analysis" width="50%" height=auto>
+
+---
+
 ### Monte Carlo Strategy for FiveThirtyEight's Riddler Nation
 - Developed a Monte Carlo-based simulation strategy to optimize soldier deployment in FiveThirtyEight’s Riddler Nation, refining approaches through randomized trials and pairwise evaluations <br>
 [[substack blog]](https://sidsingaravel.substack.com/p/a-statistical-approach-to-fivethirtyeights) <br>
