@@ -27,7 +27,7 @@
 ### Linear Discriminant Analysis - A Comprehensive Guide
 - A deep dive into the mathematical underpinnings and the statistical assumptions that make LDA a powerful dimensionality reduction and classification tool <br>
 - Reformulating LDA as a Neural Network: Discover how LDA can be reimagined as a Neural Network classifier, implemented as a simple Multilayer Perceptron (MLP) trained using backpropagation <br>
-[[blog]](https://siddharthansingaravel.github.io/linearDiscriminantAnalysis) <br>
+[[blog]](https://siddharthansingaravel.github.io/lda) <br>
 <img src="images/ldaNeuralNetwork.png" alt="Linear Discriminant Analysis" width="50%" height=auto>
 
 ---
